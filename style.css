@@ -3,7 +3,8 @@ body {
 }
 
 h1 {
-  padding: 20px;
+  margin: 25px 25px 25px 25px;
+  padding: 20px 20px 20px 20px;
   font-size: 50px;
   font-family: "Nosifer";
   color: orange;
