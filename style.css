@@ -1,3 +1,7 @@
+body {
+  background-color: lightpurple;
+}
+
 h1 {
   font-size: 50px;
   font-family: "Nosifer";
@@ -6,12 +10,11 @@ h1 {
 }
 
 button {
-  border: solid;
-  border-color: orange;
-  color: purple;
+  border: solid 1 px orange;
+  background-color: purple;
   text-align: center;
   font-family: "Metal Mania";
   font-size: 25px;
   margin: 10 px;
-  cursor: pointer;
+  width: 100%;
 }
