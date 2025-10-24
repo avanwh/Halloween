@@ -1,0 +1,16 @@
+h1 {
+  font-size: 50px;
+  font-family: "Nosifer";
+  color: orange;
+  text-align: center;
+}
+.button {
+  border: solid;
+  border-color: orange;
+  color: purple;
+  text-align: center;
+  font-family: "Metal Mania";
+  font-size: 25px;
+  margin: 10 px;
+  cursor: pointer;
+}
