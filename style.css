@@ -1,5 +1,5 @@
 body {
-  background-color: lightpurple;
+  color: lightpurple;
 }
 
 h1 {
@@ -14,8 +14,9 @@ button {
   border: solid 1 px orange;
   background-color: purple;
   text-align: center;
-  font-family: "Metal Mania";
+  font-family: "Road Rage";
   font-size: 25px;
+  color: orange;
   margin: 10 px;
   width: 100%;
 }
