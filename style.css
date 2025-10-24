@@ -4,7 +4,8 @@ h1 {
   color: orange;
   text-align: center;
 }
-.button {
+
+button {
   border: solid;
   border-color: orange;
   color: purple;
