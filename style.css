@@ -11,7 +11,7 @@ h1 {
   text-align: center;
 }
 
-.button {
+button {
   border: solid 1px orange;
   background-color: purple;
   text-align: center;
